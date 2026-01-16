@@ -1,0 +1,25 @@
+{
+  "name": "cypress-overflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtur671/cypress-overstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtur671/cypress-overstack/issues"
+  },
+  "homepage": "https://github.com/jtur671/cypress-overstack#readme",
+  "devDependencies": {
+    "cypress": "^15.9.0"
+  }
+}
